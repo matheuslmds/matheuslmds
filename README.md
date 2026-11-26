@@ -94,9 +94,10 @@ During my final year of high school, I received a CNPq Junior Scientific Initiat
       <a href="https://github.com/matheuslmds/biblioteca_real"><img alt="View Biblioteca Real repository" src="https://img.shields.io/badge/View_Repository-2563EB?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
     </td>
   </tr>
+</table>
 
 ---
-  
+
 ## Research Interests
 
 | Area | Topics of Interest |
