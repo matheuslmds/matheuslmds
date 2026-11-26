@@ -52,17 +52,24 @@ Featured Projects
     </td>
   </tr>
   <tr>
-    <td width="40%" align="center" valign="middle">
-      <a href="https://github.com/matheuslmds/Ideal_gas_lab"><img width="340" alt="Ideal Gas Lab — animated particle simulation" src="https://github.com/matheuslmds/Ideal_gas_lab/raw/main/outros_arquivos/ideal_gas.gif" /></a>
-    </td>
+<td width="40%" align="center" valign="middle">
+  <a href="https://github.com/matheuslmds/Ideal_gas_lab">
+    <img src="https://raw.githubusercontent.com/matheuslmds/Ideal_gas_lab/main/outros_arquivos/ideal_gas.gif?v=2" width="340" alt="Ideal Gas Lab Simulation" />
+  </a>
+</td>
     <td valign="top">
       <h3><a href="https://github.com/matheuslmds/Ideal_gas_lab">02 · Ideal Gas Lab</a></h3>
       <b>Interactive Kinetic Theory Simulator</b>
-      <p><img alt="Computational Physics" src="https://img.shields.io/badge/Computational_Physics-0E7490?style=flat-square" /> <img alt="Statistical Mechanics" src="https://img.shields.io/badge/Statistical_Mechanics-0369A1?style=flat-square" /></p>
+      <p>
+        <img alt="Computational Physics" src="https://img.shields.io/badge/Computational_Physics-0E7490?style=flat-square" />
+        <img alt="Statistical Mechanics" src="https://img.shields.io/badge/Statistical_Mechanics-0369A1?style=flat-square" />
+      </p>
       <p>An interactive two-dimensional particle simulator exploring the kinetic theory of gases through elastic collisions.</p>
       <p>Allows users to control temperature and particle number, estimate temperature from mean kinetic energy, visualize particle velocities, and analyze velocity distributions in the context of Maxwell–Boltzmann statistics and thermal equilibrium.</p>
       <p><b>Tools:</b> Python, Pygame, Jupyter Notebook.</p>
-      <a href="https://github.com/matheuslmds/Ideal_gas_lab"><img alt="View Ideal Gas Lab repository" src="https://img.shields.io/badge/View_Repository-0E7490?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+      <a href="https://github.com/matheuslmds/Ideal_gas_lab">
+        <img alt="View Ideal Gas Lab repository" src="https://img.shields.io/badge/View_Repository-0E7490?style=flat-square&amp;logo=github&amp;logoColor=white" />
+      </a>
     </td>
   </tr>
   <tr>
@@ -79,21 +86,30 @@ Featured Projects
       <a href="https://github.com/matheuslmds/biblioteca_real"><img alt="View Biblioteca Real repository" src="https://img.shields.io/badge/View_Repository-2563EB?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
     </td>
   </tr>
-</table>Research Interests
-Area	Topics of interest
-Computational Physics	Quantum mechanics, condensed matter physics, atomistic simulations, electronic structure
-Materials Science	Structure–property relationships, superconductivity, computational materials research
-Applied Mathematics	Numerical methods, mathematical modeling, optimization
-Machine Learning for Science	Materials informatics, predictive modeling, model interpretability
+
+---
+  
+## Research Interests
+
+| Area | Topics of Interest |
+| :--- | :--- |
+| **Computational Physics** | Quantum mechanics, condensed matter physics, atomistic simulations, electronic structure theory |
+| **Materials Science** | Structure–property relationships, superconductivity, computational materials science |
+| **Applied Mathematics** | Numerical methods, mathematical modeling, optimization |
+| **Machine Learning for Science** | Materials informatics, predictive modeling, model interpretability |
+
+---
 
 
-Technologies & Tools
+## Technologies & Tools
 Programming Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-283593?style=flat-square&amp;logo=c&amp;logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" />
-</p>Scientific Computing & Data Science
+</p>
+
+## Scientific Computing & Data Science
 <p>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" />
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-3764A4?style=flat-square&amp;logo=scipy&amp;logoColor=white" />
@@ -102,31 +118,33 @@ Programming Languages
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-C85B14?style=flat-square&amp;logo=jupyter&amp;logoColor=white" />
   <img alt="Pygame" src="https://img.shields.io/badge/Pygame-0E7490?style=flat-square" />
-</p>Machine Learning & Materials Informatics
+</p>
+
+## Machine Learning & Materials Informatics
 <p>
   <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-B36B12?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" />
   <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-AD511C?style=flat-square" />
   <img alt="Optuna" src="https://img.shields.io/badge/Optuna-4B32C3?style=flat-square" />
   <img alt="Matminer" src="https://img.shields.io/badge/Matminer-2563EB?style=flat-square" />
   <img alt="Pymatgen" src="https://img.shields.io/badge/Pymatgen-0E7490?style=flat-square" />
-</p>Computational Materials Science & HPC
-<p>
-  <img alt="VASP" src="https://img.shields.io/badge/VASP-2563EB?style=flat-square" />
-  <img alt="DFT" src="https://img.shields.io/badge/Density_Functional_Theory-7C3AED?style=flat-square" />
-  <img alt="SLURM" src="https://img.shields.io/badge/SLURM-0E7490?style=flat-square" />
-  <img alt="HPC" src="https://img.shields.io/badge/High_Performance_Computing-4338CA?style=flat-square" />
-</p>Development & Research Tools
+</p>
+
+## Development & Research Tools
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-C2410C?style=flat-square&amp;logo=git&amp;logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-30363D?style=flat-square&amp;logo=github&amp;logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&amp;logo=latex&amp;logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-475569?style=flat-square&amp;logo=linux&amp;logoColor=white" />
-</p>Currently Learning
+</p>
+
+## Currently Learning
 - Mathematical foundations of computational physics and numerical analysis.
 - Quantum mechanics and electronic structure theory.
 - Scientific programming, optimization, and numerical simulations.
 - Machine learning for materials science and materials informatics.
-GitHub Statistics
+
+
+## GitHub Statistics
 <p align="center">
   <img width="53%" alt="GitHub overview with GitHub logo instead of letter rank" src="https://github-readme-stats.vercel.app/api?username=matheuslmds&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;custom_title=GitHub%20Overview&amp;bg_color=0F172A&amp;title_color=93C5FD&amp;text_color=E2E8F0&amp;icon_color=22D3EE&amp;ring_color=8B5CF6&amp;border_color=303D56&amp;border_radius=10" />
   <img width="43%" alt="Repository language distribution — donut chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmds&amp;layout=donut&amp;size_weight=0.5&amp;count_weight=0.5&amp;custom_title=Language%20Distribution&amp;bg_color=0F172A&amp;title_color=93C5FD&amp;text_color=E2E8F0&amp;border_color=303D56&amp;border_radius=10" />
