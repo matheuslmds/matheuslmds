@@ -21,13 +21,19 @@
   <a href="https://github.com/matheuslmds"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
   <a href="mailto:matheus2610033@ilum.cnpem.br"><img alt="Email" src="https://img.shields.io/badge/Email-2563EB?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
   <a href="https://busca-cv-lattes.cnpq.br/curriculo/4924806685348845"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-7C3AED?style=flat-square" /></a>
-</p>About Me
+</p>
+
+## About Me
+
+
 I am an undergraduate student in Science and Technology at Ilum School of Science (CNPEM), Brazil, interested in understanding physical phenomena through mathematical modeling, numerical simulations, and scientific computing.
 
 My academic interests span condensed matter physics, computational materials science, applied mathematics, and machine learning for scientific applications. I have previous research experience in first-principles calculations using Density Functional Theory (DFT) and VASP.
 
 I aim to combine theoretical foundations, computational methods, and data-driven approaches to investigate physical systems and contribute to reproducible scientific research.
-Research Experience
+
+## Research Experience
+
 Junior Scientific Initiation Scholarship — CNPq
 Condensed Matter Physics · IFTM — Federal Institute of Triângulo Mineiro
 
@@ -35,7 +41,9 @@ During my final year of high school, I received a CNPq Junior Scientific Initiat
 - Performed first-principles simulations based on Density Functional Theory (DFT) using the Vienna Ab initio Simulation Package (VASP).
 - Investigated molecular and material systems, including H₂, O₂, graphene, and triphosphates.
 - Developed an interest in atomistic simulations, electronic structure calculations, and computational approaches to materials research.
-Featured Projects
+  
+## Featured Projects
+
 <table>
   <tr>
     <td width="40%" align="center" valign="middle">
