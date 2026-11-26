@@ -9,7 +9,7 @@
 </p>
   
 </p><p align="center">
-  <a href="https://www.ilum.cnpem.br/">Ilum School of Science — CNPEM</a> · Brazil
+  <a href="https://www.ilum.cnpem.br/">Ilum School of Science — CNPEM</a> · Brasil
 </p>
   
 </p><p align="center">
