@@ -4,11 +4,14 @@
   
 <p align="center">
   <a href="https://ilum.cnpem.br/">
-    <img src="./assets/ilum-logo.png" alt="Ilum School of Science" width="110" />
+    <img src="./assets/ilum-logo.png" alt="Ilum School of Science" width="350" />
   </a>
 </p>
-
+  
+</p><p align="center">
   <a href="https://www.ilum.cnpem.br/">Ilum School of Science — CNPEM</a> · Brazil
+</p>
+  
 </p><p align="center">
   <img alt="Computational Physics" src="https://img.shields.io/badge/Computational_Physics-2563EB?style=for-the-badge" />
   <img alt="Materials Science" src="https://img.shields.io/badge/Materials_Science-7C3AED?style=for-the-badge" />
