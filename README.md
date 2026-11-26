@@ -4,7 +4,7 @@
   
 <p align="center">
   <a href="https://ilum.cnpem.br/">
-    <img src="./assets/ilum-logo.png" alt="Ilum School of Science" width="250" />
+    <img src="./assets/ilum-logo.png" alt="Ilum School of Science" width="200" />
   </a>
 </p>
   
