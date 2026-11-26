@@ -21,6 +21,35 @@
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuslmds&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmds&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=matheuslmds&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://github.com/matheuslmds">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:matheus2610033@ilum.cnpem.br">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://busca-cv-lattes.cnpq.br/curriculo/4924806685348845">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-CNPq-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ## About Me
 
 I am an undergraduate student in **Science and Technology at Ilum School of Science (CNPEM), Brazil**, with a strong interest in understanding and modeling physical phenomena through computational and mathematical approaches.
@@ -43,23 +72,12 @@ The research involved first-principles calculations using the **Vienna Ab initio
 
 This experience introduced me to computational approaches in theoretical physics and materials science, strengthening my interest in atomistic simulations, electronic structure calculations, and computational methods for scientific research.
 
-## Research Interests
-
-- **Computational Physics** — Numerical methods and computational modeling of physical systems.
-- **Condensed Matter Physics** — Theoretical and computational investigation of condensed matter systems.
-- **Materials Science** — Computational investigation of materials and their properties.
-- **Density Functional Theory (DFT)** — First-principles calculations and electronic structure theory.
-- **Machine Learning** — Data-driven approaches to scientific problems and materials discovery.
-- **Scientific Computing** — Numerical algorithms, simulations, and computational methods.
-- **Data Science** — Data analysis, visualization, and statistical learning.
-- **Quantum Mechanics** — Mathematical and theoretical foundations of quantum systems.
-
 ## Featured Projects
 
 ### 1. [Tiamat — Superconductivity Critical Temperature Prediction](https://github.com/matheuslmds/Tiamat)
 
 <p align="center">
-  <img src="https://github.com/matheuslmds/Tiamat/raw/main/Arquivos/images/grafico_modelos.png" alt="Tiamat model performance comparison" width="85%" />
+  <img src="https://github.com/matheuslmds/Tiamat/raw/main/Arquivos/images/grafico_modelos.png" alt="Tiamat model performance comparison" width="65%" />
 </p>
 
 **Machine Learning · Computational Materials Science · Superconductivity**
@@ -77,7 +95,7 @@ A key methodological aspect is the use of group-based data splitting to prevent 
 ### 2. [Ideal Gas Lab — Interactive Kinetic Theory Simulator](https://github.com/matheuslmds/Ideal_gas_lab)
 
 <p align="center">
-  <img src="https://github.com/matheuslmds/Ideal_gas_lab/raw/main/outros_arquivos/ideal_gas.gif" alt="Ideal Gas Lab particle simulation" width="85%" />
+  <img src="https://github.com/matheuslmds/Ideal_gas_lab/raw/main/outros_arquivos/ideal_gas.gif" alt="Ideal Gas Lab particle simulation" width="55%" />
 </p>
 
 **Computational Physics · Statistical Mechanics · Scientific Programming**
@@ -95,7 +113,7 @@ The project provides an intuitive introduction to Maxwell–Boltzmann statistics
 ### 3. [Esfinge — XGBoost Educational Notebook](https://github.com/matheuslmds/biblioteca_real)
 
 <p align="center">
-  <img src="https://github.com/matheuslmds/biblioteca_real/raw/main/Aprendizado%20de%20M%C3%A1quina/XGBoost/T26%20-%20Matheus%20Luiz%20Mendes%20de%20Souza/arquivos/grafico_hd.png" alt="XGBoost hyperparameter optimization analysis" width="85%" />
+  <img src="https://github.com/matheuslmds/biblioteca_real/raw/main/Aprendizado%20de%20M%C3%A1quina/XGBoost/T26%20-%20Matheus%20Luiz%20Mendes%20de%20Souza/arquivos/grafico_hd.png" alt="XGBoost hyperparameter optimization analysis" width="55%" />
 </p>
 
 **Machine Learning · Educational Resources · Materials Science**
@@ -138,14 +156,6 @@ The project aims to consolidate knowledge through teaching and contribute to acc
   <img src="https://img.shields.io/badge/Pymatgen-Materials%20Science-informational?style=flat-square" />
 </p>
 
-### Computational Materials Science
-
-- Density Functional Theory (DFT)
-- VASP
-- Atomistic simulations
-- Electronic structure calculations
-- High-Performance Computing (HPC)
-
 ## Currently Learning
 
 - Mathematical foundations of computational physics.
@@ -154,30 +164,6 @@ The project aims to consolidate knowledge through teaching and contribute to acc
 - Machine learning applications in materials science.
 - Computational materials science and materials informatics.
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuslmds&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslmds&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheuslmds&theme=github-dark-blue&hide_border=true" />
-</p>
-
-## Contact
-
-<p align="center">
-  <a href="https://github.com/matheuslmds">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:matheus2610033@ilum.cnpem.br">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://busca-cv-lattes.cnpq.br/curriculo/4924806685348845">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-CNPq-blue?style=for-the-badge" />
-  </a>
-</p>
 
 ---
 
